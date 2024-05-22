@@ -1,0 +1,32 @@
+.svg {
+  outline: 0; 
+}
+
+.svg g {
+  transform-origin: unset;
+  shape-rendering: optimizespeed;
+}
+
+.angle {
+  stroke: none;
+}
+
+.svg text {
+  shape-rendering: crispEdges;
+}
+
+.squares {
+  fill: rgba(255, 255, 255, 0.2);
+}
+
+.spacial {
+  fill: rgba(20, 5, 7, 0.1)
+}
+
+.find {
+  fill: rgba(207, 231, 113, 0.6)
+}
+
+.find.spacial {
+  fill: rgba(225, 237, 54, 0.6);
+}

@@ -1,0 +1,39 @@
+[
+    {
+        "organization": "John Brown",
+        "rate": 32,
+        "records": [
+            {
+                "date": "2024-04-12",
+                "in": 111,
+                "out": 222
+            },
+            {
+                "date": "2024-04-13",
+                "in": 111,
+                "out": 222
+            },
+            {
+                "date": "2024-04-14",
+                "in": 111,
+                "out": 222
+            }
+        ]
+    },
+    {
+        "organization": "John Brown",
+        "rate": 32,
+        "records": [
+            {
+                "date": "2024-04-11",
+                "in": 111,
+                "out": 222
+            },
+            {
+                "date": "2024-04-12",
+                "in": 111,
+                "out": 222
+            }
+        ]
+    }
+]

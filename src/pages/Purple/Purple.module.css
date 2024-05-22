@@ -1,0 +1,17 @@
+.svg {
+  outline: 0; 
+}
+
+.svg g {
+  transform-origin: unset;
+  shape-rendering: optimizespeed;
+}
+
+.angle {
+  stroke: none;
+}
+
+.svg text {
+  shape-rendering: crispEdges;
+  writing-mode: vertical-rl;
+} 
